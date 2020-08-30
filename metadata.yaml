@@ -1,0 +1,30 @@
+_repo: USDA-Bulletin-No-844-Sweet-Clover-Seed_62998
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Martin, J. N.
+    gutenberg_agent_id: '52219'
+    url: http://www.gutenberg.org/2009/agents/52219
+  - agent_name: Coe, H. S.
+    aliases:
+    - Coe, Howard Sheldon
+    - Coe, Howard S.
+    birthdate: 1888
+    deathdate: 1918
+    gutenberg_agent_id: '45249'
+    url: http://www.gutenberg.org/2009/agents/45249
+description: ''
+gutenberg_issued: '2020-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'USDA Bulletin No. 844
+
+  Sweet-Clover Seed'
+url: http://www.gutenberg.org/ebooks/62998
