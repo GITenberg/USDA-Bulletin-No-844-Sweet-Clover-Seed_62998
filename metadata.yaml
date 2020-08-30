@@ -1,5 +1,8 @@
 _repo: USDA-Bulletin-No-844-Sweet-Clover-Seed_62998
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62998-h/images/cover_epub.jpg
 creator:
   authors:
   - agent_name: Martin, J. N.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '45249'
     url: http://www.gutenberg.org/2009/agents/45249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62998#USDA-Bulletin-No-844-Sweet-Clover-Seed
 gutenberg_issued: '2020-08-21'
 gutenberg_type: Text
 identifiers:
